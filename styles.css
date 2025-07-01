@@ -122,7 +122,7 @@ h5.name {
   border: none;
   padding: 15px 25px 25px 25px;
   transform: rotateY(180deg);
-  margin-left: -100px;
+  /* margin-left: -100px; */
   backface-visibility: hidden; /* Ensures that the back-face visibility is set */
 }
 
